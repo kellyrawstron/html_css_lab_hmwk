@@ -1,0 +1,67 @@
+body {
+    background-color: #1B3445;
+    color: white;
+    margin: 0;
+}
+    
+body > header {
+    
+    background-color: #6EC1E4;
+    color: white;
+   
+    
+    
+
+    
+
+}
+
+#logo {
+   
+    font-size: 2em;
+    padding-left: 50px;
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+nav > ul > li > a {
+   
+    color: white;
+  
+    
+   }
+
+.header-list {
+    
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+    
+}
+
+article > section > h1, h3, h4, p {
+    color: white;
+}
+
+aside {
+    color: white;
+}
+
+main {
+    color: white;
+}
+
+footer {
+    
+    background-color: #6EC1E4;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
